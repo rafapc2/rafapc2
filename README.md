@@ -12,7 +12,7 @@
 
 <p align="center"> <a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=rafapc2&amp;theme=dark&amp;hide_border=true&amp;date_format=j%20M%5B%20Y%5D" alt="GitHub Streak"></a></p>
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafapc&layout=compact&theme=dark&hide_border=true" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafapc2&layout=compact&theme=dark&hide_border=true" />
 </p>
 
 ## Some Interests
