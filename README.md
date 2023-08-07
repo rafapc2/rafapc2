@@ -4,11 +4,8 @@
 **rafapc2/rafapc2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 🔭 I’m currently working on systems Architecture 😊
-- 🌱 I’m currently learning cloud tech stuff
+- 🔭 I’m currently working on systems Architecture 😊 and learning cloud tech stuff
 - 🚀 I’m looking to collaborate on some opensource project
-- 😄 Pronouns: he, him
-
 
 <p align="center"> <a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=rafapc2&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak"></a><br/>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafapc2&layout=compact&theme=dark&hide_border=true" />
