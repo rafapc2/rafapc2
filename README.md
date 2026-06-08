@@ -8,12 +8,15 @@
 - 🚀 I’m looking to collaborate on some opensource project
 
 
-<p align="center">
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=rafapc2&theme=monokai" alt="GitHub Streak" /></a>
-<br/>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafapc2&layout=compact&theme=dark&hide_border=true" />
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=rafapc2&show_icons=true&include_all_commits=true&theme=dark&hide_border=true" alt="My github stats" /> 
 
+<p align="center">
+  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&theme=github-dark&fontFamily=&preferLogin=false">    <img  alt="rafapc2's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/rafapc2?cardType=level&theme=github-dark&fontFamily=&preferLogin=false" />  </a>
+
+</p>
+
+<p align="center">
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=rafapc2&theme=github-dark" alt="GitHub Streak" /></a>
+<br/>
 </p>
 
 ## Some Interests
