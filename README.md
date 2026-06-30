@@ -2,12 +2,14 @@
 
 ## Hi there 👋
 
-<!--
-**rafapc2/rafapc2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
 
-- 🔭 I’m currently working on systems Architecture 😊 and learning cloud tech stuff
-- 🚀 I’m looking to collaborate on some opensource project
+```python
+class Architect:
+    focus  = ["EA governance", "LeanIX", "AI-augmented tooling"]
+    stack  = ["Python", "Golang", "GraphQL", "Linux", "Azure/GCP/OCI" ]
+    builds = "ADD Evaluator — AI Agents that scores architecture docs"
+```
+
 
 
 
