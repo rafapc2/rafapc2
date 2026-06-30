@@ -1,21 +1,16 @@
-![banner](images/banner-terminal.png)
+![banner](images/banner-terminal-compacto.png)
 
 ## Hi there 👋
-
 
 ```python
 class Architect:
     focus  = ["EA governance", "System Design", "AI-augmented tooling"]
     stack  = ["Python", "Golang", "GraphQL", "Linux", "Azure/GCP/OCI"]
-    builds = ["ADD Evaluator — AI Agents that scores architecture docs"]
+    builds = ["AI Agents that scores architecture definitions"]
 ```
 
-
-
-
 <p align="center">
-  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&theme=github-dark&fontFamily=&preferLogin=false">    <img  alt="rafapc2's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/rafapc2?cardType=level&theme=github-dark&fontFamily=&preferLogin=false" />  </a>
-
+<a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&theme=github-dark&fontFamily=&preferLogin=false">    <img  alt="rafapc2's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/rafapc2?cardType=level&theme=github-dark&fontFamily=&preferLogin=false" />  </a>
 </p>
 
 <p align="center">
