@@ -1,3 +1,5 @@
+![banner](images/banner-terminal.png)
+
 ## Hi there 👋
 
 <!--
