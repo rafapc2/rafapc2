@@ -1,4 +1,4 @@
-![banner](images/banner-terminal-compacto-transparente.png)
+![banner](images/banner-terminal-transparente.png)
 
 ## Hi there 👋
 
