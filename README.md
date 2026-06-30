@@ -5,9 +5,9 @@
 
 ```python
 class Architect:
-    focus  = ["EA governance", "LeanIX", "AI-augmented tooling"]
-    stack  = ["Python", "Golang", "GraphQL", "Linux", "Azure/GCP/OCI" ]
-    builds = "ADD Evaluator — AI Agents that scores architecture docs"
+    focus  = ["EA governance", "System Design", "AI-augmented tooling"]
+    stack  = ["Python", "Golang", "GraphQL", "Linux", "Azure/GCP/OCI"]
+    builds = ["ADD Evaluator — AI Agents that scores architecture docs"]
 ```
 
 
